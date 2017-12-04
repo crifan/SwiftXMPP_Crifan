@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "30ADC0B4C75B58EEF37C84892DC087AB86322B2F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "30ADC0B4C75B58EEF37C84892DC087AB86322B2F" : 0,
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5666BF04-86BE-4EDE-A124-34418EBEE19F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "30ADC0B4C75B58EEF37C84892DC087AB86322B2F" : "SwiftXMPP\/",
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : "SwiftXMPP\/XMPPFramework\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftXMPP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftXMPP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nemesit\/SwiftXMPP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30ADC0B4C75B58EEF37C84892DC087AB86322B2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robbiehanson\/XMPPFramework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D"
+    }
+  ]
+}
